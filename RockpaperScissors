@@ -1,0 +1,65 @@
+/******************************************************************************
+
+Rock paper scissors game with AI.
+
+*******************************************************************************/
+import java.util.Scanner;
+import java.util.Random;
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("CHALIYE KHELA SHURU KARA JAYE\n YE KHEL H ROCK, PAPERS AND SCISORRS KA \n BINA DERI KAI CHALIYE SHURU KARFTE H AAP OR HAM\n");
+		int scorecomp=0;
+		int scorep1=0;
+		System.out.println(" PROCEDURE OF THE GAME :\n YOU WILL GET FIVE CHANCES AND YOU HAVE TO GIVE YOUR RESPONSES\n RESPONSES CAN BE : \n 1. ROCK=0 \n 2. PAPERS =1 \n 3.SCISSORS=2 \n  ");
+		for( int i=0; i<=5; i++)
+		{ Random r= new Random();
+		  int r1= r.nextInt(3);
+		  System.out.println(" \nEnter your choice");
+		  Scanner s1= new Scanner(System.in);
+		  int choice = s1.nextInt();
+		  if(r1==0&&choice==1)
+		  {System.out.println(" You win !!!! HuRRAY");
+          scorep1++;
+		  }
+		  else if(r1==0&&choice==2)
+		  {   System.out.println(" You chose SCISSORS and Computer chose ROCK");
+		      System.out.println(" You loose! Try again!!");
+		      scorecomp++;
+		       }
+		else if(r1==1&&choice==0)
+		{ System.out.println(" You chose ROCK and Computer chose PAPER ");
+		    System.out.println(" You loose ! try again !!");
+		    scorecomp++;
+		    
+		}
+		 else if(r1==1&&choice==2)
+		 {  System.out.println(" You chose SCISSORS and Computer chose PAPER");
+		     System.out.println(" You win!!!!! HuRRAY! ");
+		     scorep1++;
+		     
+		 }
+		else if(r1==2&&choice==0)
+		{  System.out.println(" You chose ROCK and Computer chose SCISSORS ");
+		    System.out.println(" You win!!! HuRRAY! ");
+		    scorep1++;
+		    
+		}
+		 else if(r1==2&&choice==1)
+		 {   System.out.println(" You chose PAPER and Computer chose SCISSORS");
+		     System.out.println(" You loose! try again !!");
+		     scorecomp++;
+		 }
+		 else 
+		 {System.out.println(" Ooops Cases matched !!! Do again");
+	
+		}
+	    
+		}
+	if(scorep1>scorecomp)
+	System.out.println(" Hurray you won the overall game !! You are better than this Foolish Computer !!!!\n");
+	else 
+	System.out.println(" You loose the overall game buddy !! Better luck next time ");
+	}
+}
+
