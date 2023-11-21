@@ -18,20 +18,20 @@
   </a>
 </p>
 
-<h2 align="center">About Me</h2>
+<h1 align="center">About Me</h1>
 <br/>
-<p align="center">
+<h3 align="center" font-family="algerian">
   Welcome to my GitHub! Sachin this side . Well I am just a keen learner and a person with high josh and spirit to work . 
 I have participated in numerous hackthons and has lead my team to victory . 
 I have great knowledge about Full stack web development .
 I have great problem solving skills and I am good conceptual know about DSA.
-</p>
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="480" height="480">
 </p>
 
-<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h1 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <!-- C++ -->
@@ -69,4 +69,3 @@ I have great problem solving skills and I am good conceptual know about DSA.
 <img src="https://media.giphy.com/media/JUSwkiO1Eh5K43ruN0/giphy.gif" width="480" height="287">
 </p>
 
-![Snake animation](https://github.com/SachinNinja/blob/output/github-contribution-grid-snake.svg)
