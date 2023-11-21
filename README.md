@@ -20,17 +20,19 @@
 
 <h1 align="center">About Me</h1>
 <br/>
-<ul style="list-style-type: none; text-align: center; font-family: Algerian; padding: 0;">
+<p align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="480" height="480">
+</p>
+<br/>
+
+<ul align="center">
   <li>Well, I am just a keen learner and a person with high josh and spirit to work.</li>
   <li>I have participated in numerous hackathons and have led my team to victory.</li>
   <li>I have great knowledge about Full-stack web development.</li>
   <li>I have great problem-solving skills, and I have a good conceptual understanding of DSA.</li>
 </ul>
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="480" height="480">
-</p>
+<br/>
 
 <h1 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
 <p align="center">
@@ -60,7 +62,7 @@
    <!-- Git-->
   <img src="https://w7.pngwing.com/pngs/182/979/png-transparent-github-repository-commit-version-control-github-angle-rectangle-logo-thumbnail.png" alt="github" width="45" height="45"/>
 </p>
-</br>
+<br/>
 
 <h2 align="center">Thank you for Going through my profile</h2>
 
