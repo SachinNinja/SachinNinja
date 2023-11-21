@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h1 style="text-align:center">Useful links</h1>
+<h1 style="text-align:center">Useful Links</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/thepiyushmalhotra/">
     <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png"/>
@@ -16,6 +16,11 @@
   <a href="https://thepiyushmalhotra.github.io/">
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/files-documents-actions/252/file-document-action-paper_76-512.png"/>
   </a>
+</p>
+
+<h2 style="text-align:center">About Me</h2>
+<p align="center">
+  Welcome to my GitHub! I'm passionate about coding and exploring new technologies. Check out the links above to connect with me on various platforms and explore my projects.
 </p>
 
 <p align="center">
