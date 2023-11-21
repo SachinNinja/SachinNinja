@@ -56,5 +56,8 @@
   <img src="https://w7.pngwing.com/pngs/182/979/png-transparent-github-repository-commit-version-control-github-angle-rectangle-logo-thumbnail.png" alt="github" width="45" height="45"/>
 </p>
 
-<h2 style="text-align:center">Thank you for Going through my profile</h2>
+<h2 align="center">Thank you for Going through my profile</h2>
+
+<p align="center">
 <img src="https://media.giphy.com/media/JUSwkiO1Eh5K43ruN0/giphy.gif" width="480" height="287">
+</p>
