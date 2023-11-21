@@ -18,7 +18,8 @@
   </a>
 </p>
 
-<h2 style="text-align:center">About Me</h2>
+<h2 align="center">About Me</h2>
+<br/>
 <p align="center">
   Welcome to my GitHub! Sachin this side . Well I am just a keen learner and a person with high josh and spirit to work . 
 I have participated in numerous hackthons and has lead my team to victory . 
@@ -62,10 +63,10 @@ I have great problem solving skills and I am good conceptual know about DSA.
 
 <h2 align="center">Thank you for Going through my profile</h2>
 
-</br>
+<br/>
 
 <p align="center">
 <img src="https://media.giphy.com/media/JUSwkiO1Eh5K43ruN0/giphy.gif" width="480" height="287">
 </p>
 
-![Snake animation](https://github.com/SachinNinja/SachinNinja/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SachinNinja/blob/output/github-contribution-grid-snake.svg)
