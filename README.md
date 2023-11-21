@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h1 style="text-align:center">Useful Links</h1>
+<h1 align="center">Useful Links</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/thepiyushmalhotra/">
     <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png"/>
@@ -27,8 +27,8 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="480" height="480">
 </p>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45"/>
@@ -55,8 +55,11 @@
    <!-- Git-->
   <img src="https://w7.pngwing.com/pngs/182/979/png-transparent-github-repository-commit-version-control-github-angle-rectangle-logo-thumbnail.png" alt="github" width="45" height="45"/>
 </p>
+</br>
 
 <h2 align="center">Thank you for Going through my profile</h2>
+
+</br>
 
 <p align="center">
 <img src="https://media.giphy.com/media/JUSwkiO1Eh5K43ruN0/giphy.gif" width="480" height="287">
