@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h1>Useful links</h1>
+<h1 style="text-align:center">Useful links</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/thepiyushmalhotra/">
     <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png"/>
