@@ -40,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <!--Node Js -->
+  <img src="https://w7.pngwing.com/pngs/777/698/png-transparent-node-js-javascript-software-developer-npm-github-angle-text-logo-thumbnail.png" alt="javascript" width="45" height="45"/>
   <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
   <!-- Flask -->
@@ -47,6 +49,8 @@
   <!-- npm -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
   <!-- GitHub -->
-  <img src="https://icons8.com/icon/63777/github" alt="github" width="45" height="45"/>
+  <img src="" alt="github" width="45" height="45"/>
+   <!-- Git-->
+  <img src="https://w7.pngwing.com/pngs/182/979/png-transparent-github-repository-commit-version-control-github-angle-rectangle-logo-thumbnail.png" alt="github" width="45" height="45"/>
 </p>
 
