@@ -30,8 +30,6 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <!-- Sublime Text -->
-  <img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" alt="sublime" width="45" height="45"/>
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45"/>
   <!-- C -->
@@ -48,11 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
   <!-- npm -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
-  <!-- SQL -->
-  <img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" alt="sql" width="45" height="45"/>
   <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-  <!-- GitHub Copilot -->
-  <img src="" alt="github-copilot" width="45" height="45"/>
+  <img src="https://icons8.com/icon/63777/github" alt="github" width="45" height="45"/>
 </p>
 
