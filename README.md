@@ -51,7 +51,7 @@
   <!-- npm -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
   <!-- GitHub -->
-  <img src="" alt="github" width="45" height="45"/>
+  <img src="https://w7.pngwing.com/pngs/764/179/png-transparent-github-computer-icons-github-white-logo-silhouette-thumbnail.png" alt="github" width="45" height="45"/>
    <!-- Git-->
   <img src="https://w7.pngwing.com/pngs/182/979/png-transparent-github-repository-commit-version-control-github-angle-rectangle-logo-thumbnail.png" alt="github" width="45" height="45"/>
 </p>
