@@ -67,3 +67,5 @@ I have great problem solving skills and I am good conceptual know about DSA.
 <p align="center">
 <img src="https://media.giphy.com/media/JUSwkiO1Eh5K43ruN0/giphy.gif" width="480" height="287">
 </p>
+
+![Snake animation](https://github.com/SachinNinja/SachinNinja/blob/output/github-contribution-grid-snake.svg)
