@@ -31,9 +31,9 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <!-- Sublime Text -->
-  <img src="https://simpleicons.org/icons/sublimetext.svg" alt="sublime" width="45" height="45"/>
+  <img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" alt="sublime" width="45" height="45"/>
   <!-- C++ -->
-  <img src="https://simpleicons.org/icons/cplusplus.svg" alt="cpp" width="45" height="45"/>
+  <img src="https://icons8.com/icon/40669/c%2B%2B" alt="cpp" width="45" height="45"/>
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   <!-- Java -->
@@ -49,7 +49,7 @@
   <!-- npm -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
   <!-- SQL -->
-  <img src="https://simpleicons.org/icons/mysql.svg" alt="sql" width="45" height="45"/>
+  <img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" alt="sql" width="45" height="45"/>
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
   <!-- GitHub Copilot -->
