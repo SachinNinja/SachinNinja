@@ -20,12 +20,13 @@
 
 <h1 align="center">About Me</h1>
 <br/>
-<h3 align="center" font-family="algerian">
-  Welcome to my GitHub! Sachin this side . Well I am just a keen learner and a person with high josh and spirit to work . 
-I have participated in numerous hackthons and has lead my team to victory . 
-I have great knowledge about Full stack web development .
-I have great problem solving skills and I am good conceptual know about DSA.
-</h3>
+<ul style="list-style-type: none; text-align: center; font-family: Algerian; padding: 0;">
+  <li>Well, I am just a keen learner and a person with high josh and spirit to work.</li>
+  <li>I have participated in numerous hackathons and have led my team to victory.</li>
+  <li>I have great knowledge about Full-stack web development.</li>
+  <li>I have great problem-solving skills, and I have a good conceptual understanding of DSA.</li>
+</ul>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="480" height="480">
