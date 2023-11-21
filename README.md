@@ -33,7 +33,7 @@
   <!-- Sublime Text -->
   <img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" alt="sublime" width="45" height="45"/>
   <!-- C++ -->
-  <img src="https://icons8.com/icon/40669/c%2B%2B" alt="cpp" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45"/>
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   <!-- Java -->
@@ -53,6 +53,6 @@
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
   <!-- GitHub Copilot -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="github-copilot" width="45" height="45"/>
+  <img src="" alt="github-copilot" width="45" height="45"/>
 </p>
 
