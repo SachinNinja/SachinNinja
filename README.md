@@ -20,7 +20,10 @@
 
 <h2 style="text-align:center">About Me</h2>
 <p align="center">
-  Welcome to my GitHub! I'm passionate about coding and exploring new technologies. Check out the links above to connect with me on various platforms and explore my projects.
+  Welcome to my GitHub! Sachin this side . Well I am just a keen learner and a person with high josh and spirit to work . 
+I have participated in numerous hackthons and has lead my team to victory . 
+I have great knowledge about Full stack web development .
+I have great problem solving skills and I am good conceptual know about DSA.
 </p>
 
 <p align="center">
