@@ -43,7 +43,7 @@
   <!--Node Js -->
   <img src="https://w7.pngwing.com/pngs/777/698/png-transparent-node-js-javascript-software-developer-npm-github-angle-text-logo-thumbnail.png" alt="javascript" width="45" height="45"/>
    <!--React -->
-  <img src="https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.pngg" alt="javascript" width="45" height="45"/>
+  <img src="https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png" alt="javascript" width="45" height="45"/>
   <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
   <!-- Flask -->
