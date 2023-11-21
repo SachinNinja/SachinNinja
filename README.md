@@ -24,13 +24,14 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="480" height="480">
 </p>
 <br/>
-
-<ul align="center">
+<div align="center">
+<ul >
   <li>Well, I am just a keen learner and a person with high josh and spirit to work.</li>
   <li>I have participated in numerous hackathons and have led my team to victory.</li>
   <li>I have great knowledge about Full-stack web development.</li>
   <li>I have great problem-solving skills, and I have a good conceptual understanding of DSA.</li>
 </ul>
+</div>
 
 <br/>
 
