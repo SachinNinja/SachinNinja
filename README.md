@@ -4,16 +4,16 @@
 
 <h1 align="center">I am Sachin Upadhyay</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/thepiyushmalhotra/">
+  <a href="https://www.linkedin.com/in/sachin-upadhyay-6691a4251/">
     <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
-    <img height="50" src="https://cdn1.iconfinder.com/data/icons/social-rounded-2/32/instagram-512.png"/>
+  <a href="https://leetcode.com/SachinSensei/">
+    <img height="50" src="https://scontent.fdel1-5.fna.fbcdn.net/v/t39.30808-1/305317853_616467910000160_3824851731065368025_n.png?stp=dst-png_p200x200&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_aid=0&_nc_ohc=F4ED8spZ9ZUAX9wP7NH&_nc_ht=scontent.fdel1-5.fna&oh=00_AfBrKQLBVwgW50CVSqrgEb_0HYkjQep5cwss6BuL3Q7o2Q&oe=6561F15D"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/c/thepiyushmalhotra">
+  <a href="https://www.youtube.com/channel/UCsVbGpAudSn3Lfl0L1GXaCw">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png"/>
   </a>&nbsp;&nbsp;
-  <a href="https://thepiyushmalhotra.github.io/">
+  <a href="https://sachinupadhyayresume.netlify.app/">
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/files-documents-actions/252/file-document-action-paper_76-512.png"/>
   </a>
 </p>
