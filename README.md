@@ -8,7 +8,7 @@
     <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png"/>
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/SachinSensei/">
-    <img height="50" src="https://scontent.fdel1-5.fna.fbcdn.net/v/t39.30808-1/305317853_616467910000160_3824851731065368025_n.png?stp=dst-png_p200x200&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_aid=0&_nc_ohc=F4ED8spZ9ZUAX9wP7NH&_nc_ht=scontent.fdel1-5.fna&oh=00_AfBrKQLBVwgW50CVSqrgEb_0HYkjQep5cwss6BuL3Q7o2Q&oe=6561F15D"/>
+    <img height="50" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCsVbGpAudSn3Lfl0L1GXaCw">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png"/>
